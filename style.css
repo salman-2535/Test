@@ -1,3 +1,8 @@
 body {
 	background-color: burlywood;
 }
+p {
+	font-size: 20px;
+	font-family: tahoma;
+	font-weight: bold;
+}
