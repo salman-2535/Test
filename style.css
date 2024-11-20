@@ -6,3 +6,7 @@ p {
 	font-family: tahoma;
 	font-weight: bold;
 }
+span {
+	color: red;
+	background-color: yellow;
+}
